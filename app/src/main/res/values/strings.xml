@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyReadWriteFile</string>
+    <string name="file_new">New</string>
+    <string name="file_open">Open</string>
+    <string name="file_save">Save</string>
+    <string name="title">Please Write The Title</string>
+    <string name="hint_isi_pesan">Write The Text Here</string>
+</resources>
